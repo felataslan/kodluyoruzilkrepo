@@ -1,0 +1,1 @@
+// ecmascript javascript 'in bir standart sağlamasını sağlayan bir spesifaksiyon diyebiliriz.
